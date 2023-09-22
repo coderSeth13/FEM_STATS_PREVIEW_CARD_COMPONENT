@@ -7,7 +7,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 #### Project links
 
 - Solution URL: https://github.com/coderSeth13/FEM_STATS_PREVIEW_CARD_COMPONENT.git
-- Live Site URL:
+- Live Site URL: https://coderseth13.github.io/FEM_STATS_PREVIEW_CARD_COMPONENT/
 
 #### Social links
 - Frontend Mentor: https://www.frontendmentor.io/profile/coderSeth13:
