@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Favicon -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <title>Stats preview card component</title>
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca:wght@700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- CSS  link-->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <div class="image-wrapper">
+          <picture>
+            <source
+              media="(min-width: 600px)"
+              srcset="images/image-header-desktop.jpg"
+            />
+            <img src="images/image-header-mobile.jpg" alt="" />
+          </picture>
+          <div class="image-background"></div>
+        </div>
+
+        <div class="descriptions">
+          <h1 class="heading-1 | align-center">
+            Get <span>insights</span> that help your business grow.
+          </h1>
+
+          <p class="spacer-medium | align-center" data-main-paragraph>
+            Discover the benefits of data analytics and make better decisions
+            regarding revenue, customer experience, and overall efficiency.
+          </p>
+
+          <div class="flex-group spacer-large">
+            <div class="spacer-medium">
+              <h2 class="heading-2">10k+</h2>
+              <p data-stat-headings>companies</p>
+            </div>
+            <div class="spacer-medium">
+              <h2 class="heading-2">314</h2>
+              <p data-stat-headings>templates</p>
+            </div>
+            <div class="spacer-medium">
+              <h2 class="heading-2">12m+</h2>
+              <p data-stat-headings>queries</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="coderSeth">Coded by <a href="#">coderSeth</a>.</div>
+    </div>
+  </body>
+</html>
