@@ -10,6 +10,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Live Site URL: https://coderseth13.github.io/FEM_STATS_PREVIEW_CARD_COMPONENT/
 
 #### Social links
+- Twitter: https://twitter.com/coderSeth13?s=09
+- Instagram: https://www.instagram.com/coderseth13.cs/
 - Frontend Mentor: https://www.frontendmentor.io/profile/coderSeth13:
 - Github: https://github.com/coderSeth13?tab=repositories
 
